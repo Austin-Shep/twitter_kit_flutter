@@ -15,7 +15,7 @@ A new Flutter plugin.
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'TwitterKit'
+  s.dependency 'TwitterKit5'
   s.static_framework = true
   s.platform = :ios, '8.0'
 
